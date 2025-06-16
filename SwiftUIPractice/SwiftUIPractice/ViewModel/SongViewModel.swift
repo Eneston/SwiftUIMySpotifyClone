@@ -34,9 +34,6 @@ class SongViewModel : ObservableObject {
                 AudioManager.shared.pause()
             }
         }
-
-
-
     
     /// Parçaları karışık halde çalar.
     func shuffleSongs() {
@@ -44,7 +41,6 @@ class SongViewModel : ObservableObject {
         AudioManager.shared.play(urlString: randomSong.audioUrl)
     }
     
-    // Gelecekte Firebase'den verileri çektiğinde burada doldurucaz.
     // Mock Data Songs.
     func fetchSongsMock() {
         self.songs = [
