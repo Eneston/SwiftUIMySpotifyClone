@@ -63,7 +63,7 @@ struct MainContentView: View {
                         selectedSong: $selectedSong,
                         showNowPlaying: $showNowPlaying
                     )
-                    .padding(.bottom,90) // TabView için yer 
+                    .padding(.bottom,90) 
                 }
             }
         }
@@ -76,7 +76,6 @@ struct MainContentView: View {
 
 struct Background: View {
     var body: some View {
-        // Renk dğeiştirisem tekrar paleti düzenelyecem şimdilik böyle kalsın.
         LinearGradient(
             colors: [
                 Color.primaryBackground,
