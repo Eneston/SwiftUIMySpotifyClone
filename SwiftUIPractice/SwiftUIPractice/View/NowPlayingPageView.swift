@@ -191,7 +191,6 @@ struct CloseButton : View {
                 presentationMode.wrappedValue.dismiss()
 
             }
-            // Butonu köşeye ittim
             Spacer()
         }
         .padding()
