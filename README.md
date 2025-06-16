@@ -3,7 +3,7 @@ Basit bir SwiftUI tabanlı müzik oynatıcı uygulaması. Şarkı arama, oynatma
 
 
 ## Özellikler
--Şarkı arama ve listeleme
--Şarkı oynatma / duraklatma
--Albüm kapağı ve sanatçı bilgisi gösterimi
--Alt menü ile Home, Search ve Your Library sekmeleri
+*Şarkı arama ve listeleme
+*Şarkı oynatma / duraklatma
+*Albüm kapağı ve sanatçı bilgisi gösterimi
+* Alt menü ile Home, Search ve Your Library sekmeleri
