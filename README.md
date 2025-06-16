@@ -19,6 +19,8 @@ Xcode 14 veya üstü ile açıp çalıştırabilirsiniz.
 ## Kullanım
 Arama çubuğuna şarkı adı yazıp, listeden seçim yaparak şarkıyı oynatabilirsiniz. Medya kontrolleri ile oynatma duraklatma işlemi yapılır.
 
+## 🇬🇧 English Description
+
 ## SwiftUI Music Player
 A simple music player app built with SwiftUI. Includes song search, playback, and basic media controls.
 
