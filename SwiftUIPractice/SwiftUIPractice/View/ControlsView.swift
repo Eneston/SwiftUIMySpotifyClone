@@ -24,7 +24,7 @@ struct ControlsView: View {
 
             Spacer()
 
-            // 🎯 Shuffle Play Butonu
+            //  Shuffle Play Butonu
             Button(action: {
                 onShufflePlay()
             }) {
